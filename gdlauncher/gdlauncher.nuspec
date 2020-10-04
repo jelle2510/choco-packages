@@ -3,14 +3,14 @@
   <metadata>
     <id>gdlauncher</id>
     <version>1.0.11</version>
-    <packageSourceUrl>https://github.com/jelle2510/au-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jelle2510/choco-packages</packageSourceUrl>
     <owners>Jelle Schroijen</owners>
     
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>GDLauncher (Install)</title>
     <authors>Davide Ceschia</authors>
     <projectUrl>https://gdevs.io</projectUrl>
-    <iconUrl>https://github.com/jelle2510/au-packages/gdlauncher/icon.png</iconUrl>
+    <iconUrl>https://github.com/jelle2510/choco-packages/gdlauncher/icon.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <licenseUrl>https://github.com/gorilla-devs/GDLauncher/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
