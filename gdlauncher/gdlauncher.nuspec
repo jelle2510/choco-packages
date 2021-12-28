@@ -3,7 +3,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>gdlauncher</id>
-    <version>1.0.11.20201005</version>
+    <version>1.1.20</version>
     <packageSourceUrl>https://github.com/jelle2510/choco-packages</packageSourceUrl>
     <owners>Jelle Schroijen</owners>
     
