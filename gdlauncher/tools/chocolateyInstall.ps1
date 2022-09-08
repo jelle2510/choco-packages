@@ -3,8 +3,8 @@
 $packageArgs = @{
   packageName   = 'gdlauncher'
   fileType      = 'EXE'
-  url           = 'https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.21/GDLauncher-win-setup.exe'
-  checksum      = 'df6b8afa5a12788f48d1e8cb808abe8657c76d837caae969f877600172859176'
+  url           = 'https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.29/GDLauncher-win-setup.exe'
+  checksum      = '453a308a5d60b6370dc09343f193b46fed4dfdd654a24acd0bba01a778660430'
   checksumType  = 'sha256'
   silentArgs    = "/qn /norestart"
   validExitCodes= @(0, 3010, 1641)
